@@ -241,6 +241,7 @@
             this.buttonSolve.TabIndex = 48;
             this.buttonSolve.Text = "=";
             this.buttonSolve.UseVisualStyleBackColor = false;
+            this.buttonSolve.Click += new System.EventHandler(this.buttonSolve_Click);
             // 
             // buttonClear
             // 
